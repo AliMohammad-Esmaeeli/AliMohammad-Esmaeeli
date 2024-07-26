@@ -3,7 +3,6 @@ Frontend React Developer 👨‍💻🧋
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ali_mohammad.es) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-mohammad-esmaeeli-452182203) 
 [![Website](https://img.shields.io/badge/🌐-Website-brightgreen)](https://www.alimohammad.blog/)
 
